@@ -1,4 +1,9 @@
 # 基于知识图谱的KBQA
+
+# 构建过程参考
+https://blog.csdn.net/keyue123/article/details/85266355
+
+
 # 上手教程
 
 环境配置
